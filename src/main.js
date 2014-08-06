@@ -5,7 +5,7 @@
 ac.canvas
     .setFontStyle(62, "Arial Black")
     .drawText("HTML5",26,60)
-    .moveFrame(0,70)
+    .moveCanvas(0,70)
     .setFillStyle("#E34C26") //Shield Back
     .fillPoly(39,250,17,0,262,0,239,250,139,278)
     .setFillStyle("#F06529") //Shield Front
