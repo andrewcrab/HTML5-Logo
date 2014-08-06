@@ -23,12 +23,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="html5-logo.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="html5-logo.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html5-logo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4851752" vertical-offset="0" max-vertical-offset="371">
-              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="300">
+              <caret line="14" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="7" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="drag-on-canvas.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drag-on-canvas.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="300">
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="drag-on-canvas.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/drag-on-canvas.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2278481" vertical-offset="0" max-vertical-offset="395">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#39#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,23 +68,36 @@
       <file leaf-file-name="ac.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/ac.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="870">
-              <caret line="132" column="0" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="280" max-vertical-offset="675">
+              <caret line="147" column="4" selection-start-line="147" selection-start-column="4" selection-end-line="147" selection-end-column="4" />
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
-                <element signature="e#376#449#0" expanded="false" />
-                <element signature="e#513#657#0" expanded="false" />
-                <element signature="e#718#875#0" expanded="false" />
-                <element signature="e#931#1269#0" expanded="false" />
-                <element signature="e#1327#1390#0" expanded="false" />
-                <element signature="e#1456#1527#0" expanded="false" />
-                <element signature="e#1591#1733#0" expanded="false" />
-                <element signature="e#1789#2125#0" expanded="false" />
-                <element signature="e#2199#2350#0" expanded="false" />
-                <element signature="e#2423#2513#0" expanded="false" />
-                <element signature="e#2591#2729#0" expanded="false" />
-                <element signature="e#2792#2853#0" expanded="false" />
-                <element signature="e#2920#2982#0" expanded="false" />
+                <element signature="e#85#121#0" expanded="false" />
+                <element signature="e#317#351#0" expanded="false" />
+                <element signature="e#415#488#0" expanded="false" />
+                <element signature="e#551#695#0" expanded="false" />
+                <element signature="e#755#912#0" expanded="false" />
+                <element signature="e#967#1305#0" expanded="false" />
+                <element signature="e#1160#1228#0" expanded="false" />
+                <element signature="e#1362#1425#0" expanded="false" />
+                <element signature="e#1490#1561#0" expanded="false" />
+                <element signature="e#1624#1766#0" expanded="false" />
+                <element signature="e#1821#2157#0" expanded="false" />
+                <element signature="e#2014#2082#0" expanded="false" />
+                <element signature="e#2164#2199#0" expanded="false" />
+                <element signature="e#2275#2413#0" expanded="false" />
+                <element signature="e#2475#2536#0" expanded="false" />
+                <element signature="e#2602#2664#0" expanded="false" />
+                <element signature="e#2671#2709#0" expanded="false" />
+                <element signature="e#2764#2822#0" expanded="false" />
+                <element signature="e#2881#3032#0" expanded="false" />
+                <element signature="e#3104#3194#0" expanded="false" />
+                <element signature="e#3201#3233#0" expanded="false" />
+                <element signature="e#3287#3371#0" expanded="false" />
+                <element signature="e#3422#3617#0" expanded="false" />
+                <element signature="e#3435#3504#0" expanded="false" />
+                <element signature="e#3512#3587#0" expanded="false" />
+                <element signature="e#3623#3657#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -72,7 +107,7 @@
         <entry file="file://$PROJECT_DIR$/src/html5-logo.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
               </folding>
@@ -91,9 +126,12 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/main.js" />
-        <option value="$PROJECT_DIR$/lib/ac.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/html5-logo.html" />
+        <option value="$PROJECT_DIR$/drag-on-canvas.html" />
+        <option value="$PROJECT_DIR$/src/drag-on-canvas.js" />
+        <option value="$PROJECT_DIR$/src/html5-logo.js" />
+        <option value="$PROJECT_DIR$/lib/ac.js" />
       </list>
     </option>
   </component>
@@ -303,30 +341,23 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/ac.js">
+    <entry file="file://$PROJECT_DIR$/html5-logo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="370" max-vertical-offset="870">
-          <caret line="132" column="0" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-            <element signature="e#376#449#0" expanded="false" />
-            <element signature="e#513#657#0" expanded="false" />
-            <element signature="e#718#875#0" expanded="false" />
-            <element signature="e#931#1269#0" expanded="false" />
-            <element signature="e#1327#1390#0" expanded="false" />
-            <element signature="e#1456#1527#0" expanded="false" />
-            <element signature="e#1591#1733#0" expanded="false" />
-            <element signature="e#1789#2125#0" expanded="false" />
-            <element signature="e#2199#2350#0" expanded="false" />
-            <element signature="e#2423#2513#0" expanded="false" />
-            <element signature="e#2591#2729#0" expanded="false" />
-            <element signature="e#2792#2853#0" expanded="false" />
-            <element signature="e#2920#2982#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="300">
+          <caret line="14" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drag-on-canvas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="300">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -341,18 +372,56 @@
     <entry file="file://$PROJECT_DIR$/src/html5-logo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
           <folding>
             <element signature="e#0#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html5-logo.html">
+    <entry file="file://$PROJECT_DIR$/lib/ac.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4851752" vertical-offset="0" max-vertical-offset="371">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="280" max-vertical-offset="675">
+          <caret line="147" column="4" selection-start-line="147" selection-start-column="4" selection-end-line="147" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+            <element signature="e#85#121#0" expanded="false" />
+            <element signature="e#317#351#0" expanded="false" />
+            <element signature="e#415#488#0" expanded="false" />
+            <element signature="e#551#695#0" expanded="false" />
+            <element signature="e#755#912#0" expanded="false" />
+            <element signature="e#967#1305#0" expanded="false" />
+            <element signature="e#1160#1228#0" expanded="false" />
+            <element signature="e#1362#1425#0" expanded="false" />
+            <element signature="e#1490#1561#0" expanded="false" />
+            <element signature="e#1624#1766#0" expanded="false" />
+            <element signature="e#1821#2157#0" expanded="false" />
+            <element signature="e#2014#2082#0" expanded="false" />
+            <element signature="e#2164#2199#0" expanded="false" />
+            <element signature="e#2275#2413#0" expanded="false" />
+            <element signature="e#2475#2536#0" expanded="false" />
+            <element signature="e#2602#2664#0" expanded="false" />
+            <element signature="e#2671#2709#0" expanded="false" />
+            <element signature="e#2764#2822#0" expanded="false" />
+            <element signature="e#2881#3032#0" expanded="false" />
+            <element signature="e#3104#3194#0" expanded="false" />
+            <element signature="e#3201#3233#0" expanded="false" />
+            <element signature="e#3287#3371#0" expanded="false" />
+            <element signature="e#3422#3617#0" expanded="false" />
+            <element signature="e#3435#3504#0" expanded="false" />
+            <element signature="e#3512#3587#0" expanded="false" />
+            <element signature="e#3623#3657#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/drag-on-canvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2278481" vertical-offset="0" max-vertical-offset="395">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
