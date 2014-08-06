@@ -43,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="drag-on-canvas.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="drag-on-canvas.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/drag-on-canvas.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2278481" vertical-offset="0" max-vertical-offset="395">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
               <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
@@ -65,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ac.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ac.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/ac.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="280" max-vertical-offset="675">
-              <caret line="147" column="4" selection-start-line="147" selection-start-column="4" selection-end-line="147" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.24050634" vertical-offset="295" max-vertical-offset="690">
+              <caret line="107" column="3" selection-start-line="107" selection-start-column="3" selection-end-line="107" selection-end-column="3" />
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
                 <element signature="e#85#121#0" expanded="false" />
@@ -80,24 +80,25 @@
                 <element signature="e#967#1305#0" expanded="false" />
                 <element signature="e#1160#1228#0" expanded="false" />
                 <element signature="e#1362#1425#0" expanded="false" />
-                <element signature="e#1490#1561#0" expanded="false" />
-                <element signature="e#1624#1766#0" expanded="false" />
-                <element signature="e#1821#2157#0" expanded="false" />
-                <element signature="e#2014#2082#0" expanded="false" />
-                <element signature="e#2164#2199#0" expanded="false" />
-                <element signature="e#2275#2413#0" expanded="false" />
-                <element signature="e#2475#2536#0" expanded="false" />
-                <element signature="e#2602#2664#0" expanded="false" />
-                <element signature="e#2671#2709#0" expanded="false" />
-                <element signature="e#2764#2822#0" expanded="false" />
-                <element signature="e#2881#3032#0" expanded="false" />
-                <element signature="e#3104#3194#0" expanded="false" />
-                <element signature="e#3201#3233#0" expanded="false" />
-                <element signature="e#3287#3371#0" expanded="false" />
-                <element signature="e#3422#3617#0" expanded="false" />
-                <element signature="e#3435#3504#0" expanded="false" />
-                <element signature="e#3512#3587#0" expanded="false" />
-                <element signature="e#3623#3657#0" expanded="false" />
+                <element signature="e#1479#1541#0" expanded="false" />
+                <element signature="e#1606#1677#0" expanded="false" />
+                <element signature="e#1740#1882#0" expanded="false" />
+                <element signature="e#1937#2273#0" expanded="false" />
+                <element signature="e#2130#2198#0" expanded="false" />
+                <element signature="e#2280#2315#0" expanded="false" />
+                <element signature="e#2391#2529#0" expanded="false" />
+                <element signature="e#2591#2652#0" expanded="false" />
+                <element signature="e#2718#2780#0" expanded="false" />
+                <element signature="e#2787#2825#0" expanded="false" />
+                <element signature="e#2880#2938#0" expanded="false" />
+                <element signature="e#2997#3148#0" expanded="false" />
+                <element signature="e#3220#3310#0" expanded="false" />
+                <element signature="e#3317#3349#0" expanded="false" />
+                <element signature="e#3403#3487#0" expanded="false" />
+                <element signature="e#3538#3733#0" expanded="false" />
+                <element signature="e#3551#3620#0" expanded="false" />
+                <element signature="e#3628#3703#0" expanded="false" />
+                <element signature="e#3739#3773#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -210,6 +211,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML5-Logo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML5-Logo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -222,6 +237,12 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resource" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.html5-logo.html">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" uri="http://localhost:63342/HTML5-Logo/index.html">
@@ -379,10 +400,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/drag-on-canvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/pic1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/ac.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="280" max-vertical-offset="675">
-          <caret line="147" column="4" selection-start-line="147" selection-start-column="4" selection-end-line="147" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.24050634" vertical-offset="295" max-vertical-offset="690">
+          <caret line="107" column="3" selection-start-line="107" selection-start-column="3" selection-end-line="107" selection-end-column="3" />
           <folding>
             <element signature="e#0#39#0" expanded="false" />
             <element signature="e#85#121#0" expanded="false" />
@@ -393,34 +429,25 @@
             <element signature="e#967#1305#0" expanded="false" />
             <element signature="e#1160#1228#0" expanded="false" />
             <element signature="e#1362#1425#0" expanded="false" />
-            <element signature="e#1490#1561#0" expanded="false" />
-            <element signature="e#1624#1766#0" expanded="false" />
-            <element signature="e#1821#2157#0" expanded="false" />
-            <element signature="e#2014#2082#0" expanded="false" />
-            <element signature="e#2164#2199#0" expanded="false" />
-            <element signature="e#2275#2413#0" expanded="false" />
-            <element signature="e#2475#2536#0" expanded="false" />
-            <element signature="e#2602#2664#0" expanded="false" />
-            <element signature="e#2671#2709#0" expanded="false" />
-            <element signature="e#2764#2822#0" expanded="false" />
-            <element signature="e#2881#3032#0" expanded="false" />
-            <element signature="e#3104#3194#0" expanded="false" />
-            <element signature="e#3201#3233#0" expanded="false" />
-            <element signature="e#3287#3371#0" expanded="false" />
-            <element signature="e#3422#3617#0" expanded="false" />
-            <element signature="e#3435#3504#0" expanded="false" />
-            <element signature="e#3512#3587#0" expanded="false" />
-            <element signature="e#3623#3657#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/drag-on-canvas.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2278481" vertical-offset="0" max-vertical-offset="395">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
+            <element signature="e#1479#1541#0" expanded="false" />
+            <element signature="e#1606#1677#0" expanded="false" />
+            <element signature="e#1740#1882#0" expanded="false" />
+            <element signature="e#1937#2273#0" expanded="false" />
+            <element signature="e#2130#2198#0" expanded="false" />
+            <element signature="e#2280#2315#0" expanded="false" />
+            <element signature="e#2391#2529#0" expanded="false" />
+            <element signature="e#2591#2652#0" expanded="false" />
+            <element signature="e#2718#2780#0" expanded="false" />
+            <element signature="e#2787#2825#0" expanded="false" />
+            <element signature="e#2880#2938#0" expanded="false" />
+            <element signature="e#2997#3148#0" expanded="false" />
+            <element signature="e#3220#3310#0" expanded="false" />
+            <element signature="e#3317#3349#0" expanded="false" />
+            <element signature="e#3403#3487#0" expanded="false" />
+            <element signature="e#3538#3733#0" expanded="false" />
+            <element signature="e#3551#3620#0" expanded="false" />
+            <element signature="e#3628#3703#0" expanded="false" />
+            <element signature="e#3739#3773#0" expanded="false" />
           </folding>
         </state>
       </provider>
