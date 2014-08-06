@@ -23,5 +23,9 @@ function dologo(){
     ctx.scale(factor,factor);
 
     ctx.fillText("HTML5", 31,60);
+
+
 };
 
+ac.canvas.drawText("HTML5", 31,60);
+this.ac.canvas
