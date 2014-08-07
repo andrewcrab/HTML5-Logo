@@ -43,34 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ac.draggable.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/ac.draggable.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.445" vertical-offset="2" max-vertical-offset="405">
-              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-              <folding>
-                <element signature="e#40#73#0" expanded="false" />
-                <element signature="e#453#666#0" expanded="false" />
-                <element signature="e#587#650#0" expanded="false" />
-                <element signature="e#695#997#0" expanded="false" />
-                <element signature="e#1024#1059#0" expanded="false" />
-                <element signature="e#1094#1801#0" expanded="false" />
-                <element signature="e#1500#1722#0" expanded="false" />
-                <element signature="e#1626#1678#0" expanded="false" />
-                <element signature="e#1835#2198#0" expanded="false" />
-                <element signature="e#1878#2192#0" expanded="false" />
-                <element signature="e#2050#2119#0" expanded="false" />
-                <element signature="e#2208#2239#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ac.canvas.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/ac.canvas.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="455" max-vertical-offset="885">
-              <caret line="161" column="9" selection-start-line="161" selection-start-column="9" selection-end-line="161" selection-end-column="9" />
+              <caret line="168" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
                 <element signature="e#375#418#0" expanded="false" />
@@ -104,6 +81,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="bouncing-video.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bouncing-video.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.45833334" vertical-offset="165" max-vertical-offset="525">
+              <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+              <folding>
+                <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="html5-logo.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/html5-logo.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -132,14 +121,16 @@
         <option value="$PROJECT_DIR$/drag-on-canvas.html" />
         <option value="$PROJECT_DIR$/src/drag-on-canvas.js" />
         <option value="$PROJECT_DIR$/lib/ac.draggable.js" />
+        <option value="$PROJECT_DIR$/src/bouncing-video.html" />
+        <option value="$PROJECT_DIR$/bouncing-video.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="135" />
-    <option name="y" value="22" />
+    <option name="x" value="101" />
+    <option name="y" value="77" />
     <option name="width" value="992" />
-    <option name="height" value="798" />
+    <option name="height" value="795" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -244,7 +235,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.drag-on-canvas.html">
+  <component name="RunManager" selected="JavaScript Debug.bouncing-video.html">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" uri="http://localhost:63342/HTML5-Logo/index.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
@@ -256,6 +247,11 @@
       <method />
     </configuration>
     <configuration default="false" name="drag-on-canvas.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" uri="http://localhost:63342/HTML5-Logo/drag-on-canvas.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="bouncing-video.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" uri="http://localhost:63342/HTML5-Logo/bouncing-video.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -301,16 +297,18 @@
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.html5-logo.html" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.drag-on-canvas.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.bouncing-video.html" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.drag-on-canvas.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.html5-logo.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.bouncing-video.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.drag-on-canvas.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.html5-logo.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +326,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="135" y="22" width="992" height="798" extended-state="1" />
+    <frame x="101" y="77" width="992" height="795" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -337,7 +335,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29052633" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1936842" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39548022" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39716312" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -478,10 +476,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/drag-on-canvas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="315">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/drag-on-canvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ac.draggable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="405">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="e#40#73#0" expanded="false" />
+            <element signature="e#453#666#0" expanded="false" />
+            <element signature="e#587#650#0" expanded="false" />
+            <element signature="e#695#997#0" expanded="false" />
+            <element signature="e#1024#1059#0" expanded="false" />
+            <element signature="e#1094#1801#0" expanded="false" />
+            <element signature="e#1500#1722#0" expanded="false" />
+            <element signature="e#1626#1678#0" expanded="false" />
+            <element signature="e#1835#2198#0" expanded="false" />
+            <element signature="e#1878#2192#0" expanded="false" />
+            <element signature="e#2050#2119#0" expanded="false" />
+            <element signature="e#2208#2239#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/ac.canvas.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="455" max-vertical-offset="885">
-          <caret line="161" column="9" selection-start-line="161" selection-start-column="9" selection-end-line="161" selection-end-column="9" />
+          <caret line="168" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
           <folding>
             <element signature="e#0#39#0" expanded="false" />
             <element signature="e#375#418#0" expanded="false" />
@@ -514,39 +549,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/drag-on-canvas.html">
+    <entry file="file://$PROJECT_DIR$/bouncing-video.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="315">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/drag-on-canvas.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ac.draggable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.445" vertical-offset="2" max-vertical-offset="405">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.45833334" vertical-offset="165" max-vertical-offset="525">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
           <folding>
-            <element signature="e#40#73#0" expanded="false" />
-            <element signature="e#453#666#0" expanded="false" />
-            <element signature="e#587#650#0" expanded="false" />
-            <element signature="e#695#997#0" expanded="false" />
-            <element signature="e#1024#1059#0" expanded="false" />
-            <element signature="e#1094#1801#0" expanded="false" />
-            <element signature="e#1500#1722#0" expanded="false" />
-            <element signature="e#1626#1678#0" expanded="false" />
-            <element signature="e#1835#2198#0" expanded="false" />
-            <element signature="e#1878#2192#0" expanded="false" />
-            <element signature="e#2050#2119#0" expanded="false" />
-            <element signature="e#2208#2239#0" expanded="false" />
+            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
