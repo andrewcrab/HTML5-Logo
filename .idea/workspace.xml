@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="drag-on-canvas.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="drag-on-canvas.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/drag-on-canvas.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1125" vertical-offset="0" max-vertical-offset="400">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -43,28 +43,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ac.draggable.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ac.draggable.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/ac.draggable.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.445" vertical-offset="2" max-vertical-offset="405">
+              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
               <folding>
                 <element signature="e#40#73#0" expanded="false" />
-                <element signature="e#453#661#0" expanded="false" />
-                <element signature="e#514#655#0" expanded="false" />
-                <element signature="e#582#645#0" expanded="false" />
-                <element signature="e#690#892#0" expanded="false" />
-                <element signature="e#715#886#0" expanded="false" />
-                <element signature="e#919#954#0" expanded="false" />
-                <element signature="e#989#1593#0" expanded="false" />
-                <element signature="e#1026#1587#0" expanded="false" />
-                <element signature="e#1167#1244#0" expanded="false" />
-                <element signature="e#1292#1514#0" expanded="false" />
-                <element signature="e#1418#1470#0" expanded="false" />
-                <element signature="e#1627#1990#0" expanded="false" />
-                <element signature="e#1670#1984#0" expanded="false" />
-                <element signature="e#1842#1911#0" expanded="false" />
-                <element signature="e#2000#2031#0" expanded="false" />
+                <element signature="e#453#666#0" expanded="false" />
+                <element signature="e#587#650#0" expanded="false" />
+                <element signature="e#695#997#0" expanded="false" />
+                <element signature="e#1024#1059#0" expanded="false" />
+                <element signature="e#1094#1801#0" expanded="false" />
+                <element signature="e#1500#1722#0" expanded="false" />
+                <element signature="e#1626#1678#0" expanded="false" />
+                <element signature="e#1835#2198#0" expanded="false" />
+                <element signature="e#1878#2192#0" expanded="false" />
+                <element signature="e#2050#2119#0" expanded="false" />
+                <element signature="e#2208#2239#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -73,8 +69,8 @@
       <file leaf-file-name="ac.canvas.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/ac.canvas.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="885">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="455" max-vertical-offset="885">
+              <caret line="161" column="9" selection-start-line="161" selection-start-column="9" selection-end-line="161" selection-end-column="9" />
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
                 <element signature="e#375#418#0" expanded="false" />
@@ -133,15 +129,15 @@
         <option value="$PROJECT_DIR$/html5-logo.html" />
         <option value="$PROJECT_DIR$/src/html5-logo.js" />
         <option value="$PROJECT_DIR$/lib/ac.js" />
-        <option value="$PROJECT_DIR$/lib/ac.draggable.js" />
         <option value="$PROJECT_DIR$/drag-on-canvas.html" />
         <option value="$PROJECT_DIR$/src/drag-on-canvas.js" />
+        <option value="$PROJECT_DIR$/lib/ac.draggable.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="23" />
+    <option name="x" value="135" />
+    <option name="y" value="22" />
     <option name="width" value="992" />
     <option name="height" value="798" />
   </component>
@@ -332,7 +328,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="992" height="798" extended-state="0" />
+    <frame x="135" y="22" width="992" height="798" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -482,43 +478,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/drag-on-canvas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="315">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ac.draggable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#40#73#0" expanded="false" />
-            <element signature="e#453#661#0" expanded="false" />
-            <element signature="e#514#655#0" expanded="false" />
-            <element signature="e#582#645#0" expanded="false" />
-            <element signature="e#690#892#0" expanded="false" />
-            <element signature="e#715#886#0" expanded="false" />
-            <element signature="e#919#954#0" expanded="false" />
-            <element signature="e#989#1593#0" expanded="false" />
-            <element signature="e#1026#1587#0" expanded="false" />
-            <element signature="e#1167#1244#0" expanded="false" />
-            <element signature="e#1292#1514#0" expanded="false" />
-            <element signature="e#1418#1470#0" expanded="false" />
-            <element signature="e#1627#1990#0" expanded="false" />
-            <element signature="e#1670#1984#0" expanded="false" />
-            <element signature="e#1842#1911#0" expanded="false" />
-            <element signature="e#2000#2031#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/ac.canvas.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="455" max-vertical-offset="885">
+          <caret line="161" column="9" selection-start-line="161" selection-start-column="9" selection-end-line="161" selection-end-column="9" />
           <folding>
             <element signature="e#0#39#0" expanded="false" />
             <element signature="e#375#418#0" expanded="false" />
@@ -551,11 +514,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/drag-on-canvas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="315">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/drag-on-canvas.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1125" vertical-offset="0" max-vertical-offset="400">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ac.draggable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.445" vertical-offset="2" max-vertical-offset="405">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="e#40#73#0" expanded="false" />
+            <element signature="e#453#666#0" expanded="false" />
+            <element signature="e#587#650#0" expanded="false" />
+            <element signature="e#695#997#0" expanded="false" />
+            <element signature="e#1024#1059#0" expanded="false" />
+            <element signature="e#1094#1801#0" expanded="false" />
+            <element signature="e#1500#1722#0" expanded="false" />
+            <element signature="e#1626#1678#0" expanded="false" />
+            <element signature="e#1835#2198#0" expanded="false" />
+            <element signature="e#1878#2192#0" expanded="false" />
+            <element signature="e#2050#2119#0" expanded="false" />
+            <element signature="e#2208#2239#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
